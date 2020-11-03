@@ -7,10 +7,12 @@
 - Anzeige weiterer Informationen
 - Sitzpläne für unterschiedliche Räume möglich
 - Stundenpläne für verschiedene Zweige möglich
+- Automatische Skalierung an verschiedene Displaygrößen
 
 ## To-Do:
 - Einfachere Verwaltung - kein Bearbeiten der Dateien mehr nötig
-- Erstellen der Seiten für fehlende Funktionen
+- Erstellen der Seiten für fehlende Funktionen (Stundenpläne und Sitzpläne)
+- Erstellen einer Seite um verschiedene Klassen zu wählen
 - Ersetzen des Modals bei den Neuigkeiten durch Cards
 
 ## Benutzt:
