@@ -1,6 +1,6 @@
 # Klassenverwaltung - Deutsch
 
-##Features:
+## Features:
 - Anzeige von Absenzen
 - Anzeige von Schülern der Klasse
 - Anzeige von Lehrern der Klasse
